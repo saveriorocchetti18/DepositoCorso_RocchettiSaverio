@@ -62,9 +62,14 @@ class Program
                 saldo-=soldi;
                 break;
                 default:
-                Console.WriteLine("Sei uscito correttamente!");
                 break;
             }
+            Console.WriteLine("1.Visualizza");
+            Console.WriteLine("2.Deposita");
+            Console.WriteLine("3.Preleva");
+            Console.WriteLine("4.Esci");
+            scelta=int.Parse(Console.ReadLine());
         }
+        Console.WriteLine("Sei uscito correttamente!");
     }
 }
