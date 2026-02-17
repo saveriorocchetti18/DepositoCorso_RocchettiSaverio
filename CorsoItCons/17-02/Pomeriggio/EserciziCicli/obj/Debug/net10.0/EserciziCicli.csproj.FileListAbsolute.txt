@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\bin\Debug\net10.0\EserciziCicli.exe
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\bin\Debug\net10.0\EserciziCicli.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\bin\Debug\net10.0\EserciziCicli.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\bin\Debug\net10.0\EserciziCicli.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\bin\Debug\net10.0\EserciziCicli.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\refint\EserciziCicli.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\EserciziCicli.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziCicli\obj\Debug\net10.0\ref\EserciziCicli.dll
