@@ -38,5 +38,19 @@ class Program
         {
             Console.WriteLine("Bambino");
         }
+
+        string giorno="lunedi";
+        switch (giorno)
+        {
+            case "lunedi":
+            Console.WriteLine("inizio settimana");
+            break;
+            case "venerdi":
+            Console.WriteLine("quasi weekend");
+            break;
+            default:
+            Console.WriteLine("altro giorno");
+            break;
+        }
     }
 }
