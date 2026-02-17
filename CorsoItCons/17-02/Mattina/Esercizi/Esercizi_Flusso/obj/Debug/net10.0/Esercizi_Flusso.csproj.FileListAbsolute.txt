@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\bin\Debug\net10.0\Esercizi_Flusso.exe
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\bin\Debug\net10.0\Esercizi_Flusso.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\bin\Debug\net10.0\Esercizi_Flusso.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\bin\Debug\net10.0\Esercizi_Flusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\bin\Debug\net10.0\Esercizi_Flusso.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\refint\Esercizi_Flusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\Esercizi_Flusso.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\Esercizi_Flusso\obj\Debug\net10.0\ref\Esercizi_Flusso.dll
