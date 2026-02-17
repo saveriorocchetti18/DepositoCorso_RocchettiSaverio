@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\bin\Debug\net10.0\ProveDiFlusso.exe
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\bin\Debug\net10.0\ProveDiFlusso.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\bin\Debug\net10.0\ProveDiFlusso.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\bin\Debug\net10.0\ProveDiFlusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\bin\Debug\net10.0\ProveDiFlusso.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\refint\ProveDiFlusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ProveDiFlusso.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Mattina\ProveDiFlusso\obj\Debug\net10.0\ref\ProveDiFlusso.dll
