@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\bin\Debug\net10.0\EserciziFlusso.exe
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\bin\Debug\net10.0\EserciziFlusso.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\bin\Debug\net10.0\EserciziFlusso.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\bin\Debug\net10.0\EserciziFlusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\bin\Debug\net10.0\EserciziFlusso.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\refint\EserciziFlusso.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\EserciziFlusso.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\EserciziFlusso\obj\Debug\net10.0\ref\EserciziFlusso.dll
