@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProveCicli", "ProveCicli.csproj", "{5BA29544-BBDE-F6A7-9F73-BC89093F9AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA29544-BBDE-F6A7-9F73-BC89093F9AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA29544-BBDE-F6A7-9F73-BC89093F9AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA29544-BBDE-F6A7-9F73-BC89093F9AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA29544-BBDE-F6A7-9F73-BC89093F9AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E642622B-B22D-411E-B6EB-DEE33CECDE63}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\bin\Debug\net10.0\ProveCicli.exe
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\bin\Debug\net10.0\ProveCicli.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\bin\Debug\net10.0\ProveCicli.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\bin\Debug\net10.0\ProveCicli.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\bin\Debug\net10.0\ProveCicli.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\refint\ProveCicli.dll
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.pdb
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ProveCicli.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\17-02\Pomeriggio\ProveCicli\obj\Debug\net10.0\ref\ProveCicli.dll
