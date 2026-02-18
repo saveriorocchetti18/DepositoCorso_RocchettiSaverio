@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\bin\Debug\net10.0\EsercizioComplessivo.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\bin\Debug\net10.0\EsercizioComplessivo.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\bin\Debug\net10.0\EsercizioComplessivo.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\bin\Debug\net10.0\EsercizioComplessivo.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\bin\Debug\net10.0\EsercizioComplessivo.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\refint\EsercizioComplessivo.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\EsercizioComplessivo.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EsercizioComplessivo\obj\Debug\net10.0\ref\EsercizioComplessivo.dll
