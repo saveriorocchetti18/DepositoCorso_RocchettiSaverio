@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\bin\Debug\net10.0\ProveArrayCollezioni.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\bin\Debug\net10.0\ProveArrayCollezioni.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\bin\Debug\net10.0\ProveArrayCollezioni.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\bin\Debug\net10.0\ProveArrayCollezioni.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\bin\Debug\net10.0\ProveArrayCollezioni.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\refint\ProveArrayCollezioni.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ProveArrayCollezioni.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveArrayCollezioni\obj\Debug\net10.0\ref\ProveArrayCollezioni.dll

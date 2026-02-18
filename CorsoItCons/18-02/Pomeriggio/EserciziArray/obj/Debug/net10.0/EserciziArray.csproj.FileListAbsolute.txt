@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\bin\Debug\net10.0\EserciziArray.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\bin\Debug\net10.0\EserciziArray.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\bin\Debug\net10.0\EserciziArray.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\bin\Debug\net10.0\EserciziArray.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\bin\Debug\net10.0\EserciziArray.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\refint\EserciziArray.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\EserciziArray.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziArray\obj\Debug\net10.0\ref\EserciziArray.dll
