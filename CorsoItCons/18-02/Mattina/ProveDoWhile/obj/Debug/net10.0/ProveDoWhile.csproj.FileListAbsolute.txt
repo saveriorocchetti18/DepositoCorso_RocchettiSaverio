@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\bin\Debug\net10.0\ProveDoWhile.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\bin\Debug\net10.0\ProveDoWhile.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\bin\Debug\net10.0\ProveDoWhile.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\bin\Debug\net10.0\ProveDoWhile.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\bin\Debug\net10.0\ProveDoWhile.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\refint\ProveDoWhile.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ProveDoWhile.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\ProveDoWhile\obj\Debug\net10.0\ref\ProveDoWhile.dll
