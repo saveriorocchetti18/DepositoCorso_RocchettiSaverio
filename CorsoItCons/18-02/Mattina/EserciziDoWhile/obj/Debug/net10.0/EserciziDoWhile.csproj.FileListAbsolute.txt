@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\bin\Debug\net10.0\EserciziDoWhile.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\bin\Debug\net10.0\EserciziDoWhile.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\bin\Debug\net10.0\EserciziDoWhile.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\bin\Debug\net10.0\EserciziDoWhile.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\bin\Debug\net10.0\EserciziDoWhile.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\refint\EserciziDoWhile.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\EserciziDoWhile.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziDoWhile\obj\Debug\net10.0\ref\EserciziDoWhile.dll
