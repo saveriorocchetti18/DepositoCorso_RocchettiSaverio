@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\bin\Debug\net10.0\EserciziCicloFor.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\bin\Debug\net10.0\EserciziCicloFor.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\bin\Debug\net10.0\EserciziCicloFor.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\bin\Debug\net10.0\EserciziCicloFor.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\bin\Debug\net10.0\EserciziCicloFor.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\refint\EserciziCicloFor.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\EserciziCicloFor.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Mattina\EserciziCicloFor\obj\Debug\net10.0\ref\EserciziCicloFor.dll
