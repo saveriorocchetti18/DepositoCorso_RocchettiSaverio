@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\bin\Debug\net10.0\ProveMetodiCharString.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\bin\Debug\net10.0\ProveMetodiCharString.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\bin\Debug\net10.0\ProveMetodiCharString.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\bin\Debug\net10.0\ProveMetodiCharString.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\bin\Debug\net10.0\ProveMetodiCharString.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\refint\ProveMetodiCharString.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ProveMetodiCharString.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\ProveMetodiCharString\obj\Debug\net10.0\ref\ProveMetodiCharString.dll
