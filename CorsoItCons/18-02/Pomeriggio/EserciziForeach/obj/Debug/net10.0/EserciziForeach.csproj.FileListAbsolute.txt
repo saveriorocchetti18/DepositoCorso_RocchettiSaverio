@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\bin\Debug\net10.0\EserciziForeach.exe
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\bin\Debug\net10.0\EserciziForeach.deps.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\bin\Debug\net10.0\EserciziForeach.runtimeconfig.json
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\bin\Debug\net10.0\EserciziForeach.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\bin\Debug\net10.0\EserciziForeach.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.AssemblyInfo.cs
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\refint\EserciziForeach.dll
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.pdb
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\EserciziForeach.genruntimeconfig.cache
+C:\Users\Utente\Desktop\CorsoItCons\18-02\Pomeriggio\EserciziForeach\obj\Debug\net10.0\ref\EserciziForeach.dll
